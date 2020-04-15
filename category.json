@@ -1,0 +1,21 @@
+[{
+        "name": "Manger",
+        "image": "https://www.pourquoidocteur.fr/media/article/thunbs/uploded_istock-660196744-1522414062.jpg"      
+    },
+ {
+        "name": "Boire",
+        "image": "https://www.valebio.com/modules/ybc_blog/views/img/post/proteines-vegetales.jpg"
+    },
+ {
+        "name": "Salon de thé",
+        "image": "https://www.marhba.com/images/lifestyle/ben-yederamal.jpg"
+    },
+ {
+        "name": "café restaurant",
+        "image": "https://i.pinimg.com/564x/70/f1/b0/70f1b0f6bcf0d88393fe077334f2b3fd.jpg"
+    },
+ {
+        "name": "restaurant Bar",
+        "image": "https://blog.zenchef.fr/wp-content/uploads/2017/06/Comment_mettre_en_valeur_le_comptoir_de_son_restaurant-980x480.jpg"
+    }
+]
